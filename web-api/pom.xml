@@ -11,7 +11,7 @@
     <parent>
         <groupId>guru.springframework</groupId>
         <artifactId>mb2g-mm-maven</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${revision}-${changelist}</version>
     </parent>
 
     <artifactId>web-api</artifactId>
